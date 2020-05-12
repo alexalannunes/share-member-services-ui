@@ -20,15 +20,13 @@ https://dribbble.com/shots/6524040-Profile-Transactions-UI
   * [React Apexcharts](https://apexcharts.com/react-chart-demos/)
 
 
+
+
 ## Demos
-<div style="display: flex; margin-bottom: 10px">
-  <img style="margin-right: 10px" src="./.github/home.jpeg" width="50%" />
-  <img style="margin-right: 10px" src="./.github/member-details.jpeg" width="50%" />
-</div>
-<div style="display: flex">
-  <img style="margin-right: 10px" src="./.github/page-404.jpeg" width="50%" />
-  <img style="margin-right: 10px" src="./.github/member-404.jpeg" width="50%" />
-</div>
+| | |
+|--:|--|
+| <img style="margin-right: 10px" src="./.github/home.jpeg" width="70%" />| <img style="margin-right: 10px" src="./.github/member-details.jpeg" width="70%" /> |
+| <img style="margin-right: 10px" src="./.github/page-404.jpeg" width="70%" /> | <img style="margin-right: 10px" src="./.github/member-404.jpeg" width="70%" /> |
 
 
 ## Run
