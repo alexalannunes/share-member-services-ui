@@ -41,5 +41,4 @@ Clone this repo
 
 
 ## Todo
-- [ ] fix apexchart width on desktop
 - [ ] Make React Native demo
