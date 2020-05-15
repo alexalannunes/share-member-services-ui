@@ -26,7 +26,7 @@ https://dribbble.com/shots/6524040-Profile-Transactions-UI
 | | |
 |--:|--|
 | <img style="margin-right: 10px" src="./.github/home.jpeg" width="70%" />| <img style="margin-right: 10px" src="./.github/member-details.jpeg" width="70%" /> |
-| <img style="margin-right: 10px" src="./.github/page-404.jpeg" width="70%" /> | <img style="margin-right: 10px" src="./.github/member-404.jpeg" width="70%" /> |
+| <img style="margin-right: 10px" src="./.github/page-404.jpeg" width="70%" /> | create new screen :smile: |
 
 
 ## Run
