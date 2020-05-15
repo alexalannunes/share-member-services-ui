@@ -8,9 +8,8 @@ export const Container = styled.div`
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 `;
 export const Header = styled.div`
-  flex: 1.5;
   background: #f5f6fc;
-  min-height: 20%;
+  flex: 1;
   align-items: center;
   display: flex;
   justify-content: space-evenly;
@@ -18,11 +17,10 @@ export const Header = styled.div`
 export const Body = styled.div`
   background: #ffffff;
   padding: 40px 40px 30px 40px;
-  flex: 1;
+  flex: 3;
   border-radius: 40px 40px 0 0;
-  min-height: 80%;
-  align-items: center;
-  justify-content: center;
+  flex-direction: column;
+  display: flex;
 `;
 
 export const TitleCard = styled.h2`
@@ -86,4 +84,11 @@ export const IconHover = styled.button`
     font-size: 30px;
     color: #777ae8;
   }
+`;
+
+export const TranscationHistory = styled.div`
+  flex: 1;
+`;
+export const DailyActivity = styled.div`
+  flex: 1;
 `;

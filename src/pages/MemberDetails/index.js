@@ -13,6 +13,8 @@ import {
   ServiceName,
   ServicePrice,
   IconHover,
+  TranscationHistory,
+  DailyActivity,
 } from "./styles";
 import services from "../../mock/services";
 import members from "../../mock/members";
@@ -89,7 +91,7 @@ const MemberDetails = () => {
         </div>
       </Header>
       <Body>
-        <div className="flex column">
+        <TranscationHistory>
           <div className="flex ai-center">
             <TitleCard fw="bolder" color="#333">
               Transaction
@@ -116,7 +118,8 @@ const MemberDetails = () => {
               </div>
             ))}
           </div>
-
+        </TranscationHistory>
+        <DailyActivity>
           <div className="flex ai-center m-t-25">
             <TitleCard fw="bolder" color="#333">
               Daily
@@ -125,16 +128,15 @@ const MemberDetails = () => {
               Activity
             </TitleCard>
           </div>
-
           <Chart
             style={{ marginLeft: -15 }}
             options={state.options}
             series={state.series}
             type="bar"
-            width={window.innerWidth - 60}
-            height={250}
+            width="100%"
+            height="80%"
           />
-        </div>
+        </DailyActivity>
       </Body>
     </Container>
   );
