@@ -1,15 +1,14 @@
 import React from "react";
-
 import { Container, BackButton } from "./styles";
-import { useLocation, useHistory } from "react-router-dom";
+import { useHistory } from "react-router-dom";
+import { _404 } from "../../assets/index";
 
-const NotFount = (props) => {
-  const { state } = useLocation();
+const NotFount = () => {
   const { replace } = useHistory();
 
   return (
     <Container>
-      <div className="text-center">{state?.title || props.title}</div>
+      <img src={_404} style={{ width: "100%" }} alt="page not found" />
       <BackButton onClick={() => replace("/")}>Back</BackButton>
     </Container>
   );
