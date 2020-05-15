@@ -17,12 +17,13 @@ import {
   MemberName,
   MemberRole,
 } from "./styles";
+import "animate.css/animate.min.css";
 import members from "../../mock/members";
 import { user1 } from "../../assets";
 
 const Home = () => {
   return (
-    <Container>
+    <Container className="animate__animated animate__fadeIn">
       <Header />
       <Body>
         <div className="flex column">

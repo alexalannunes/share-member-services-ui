@@ -16,17 +16,18 @@ https://dribbble.com/shots/6524040-Profile-Transactions-UI
 * [React](https://dribbble.com/shots/6524040-Profile-Transactions-UI)
 * [React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start)
 * [Styled Components](https://styled-components.com/)
+* [Animate.css](https://animate.style/)
 * [Apexcharts](https://apexcharts.com/)
   * [React Apexcharts](https://apexcharts.com/react-chart-demos/)
 
 
 
 
-## Demos
-| | |
-|--:|--|
-| <img style="margin-right: 10px" src="./.github/home.jpeg" width="70%" />| <img style="margin-right: 10px" src="./.github/member-details.jpeg" width="70%" /> |
-| <img style="margin-right: 10px" src="./.github/404.jpeg" width="70%" /> | create new screen :smile: |
+## Demo
+|  |  |	 |
+|--|--|--|
+| <img  style="margin-right: 10px"  src="https://raw.githubusercontent.com/alexalannunes/share-member-services-ui/master/.github/home.jpeg" width="100%" /> | <img  style="margin-right: 10px"  src="https://raw.githubusercontent.com/alexalannunes/share-member-services-ui/master/.github/member-details.jpeg" width="100%" /> | <img  style="margin-right: 10px"  src="https://raw.githubusercontent.com/alexalannunes/share-member-services-ui/master/.github/404.jpeg" width="100%" /> |
+
 
 
 ## Run
@@ -41,4 +42,4 @@ Clone this repo
 
 
 ## Todo
-- [ ] Make React Native demo
+- [ ] React Native demo

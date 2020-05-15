@@ -72,7 +72,7 @@ const MemberDetails = () => {
   }
 
   return (
-    <Container>
+    <Container className="animate__animated animate__fadeIn">
       <Header>
         <IconHover>
           <FaArrowLeft

@@ -7,7 +7,7 @@ const NotFount = () => {
   const { replace } = useHistory();
 
   return (
-    <Container>
+    <Container className="animate__animated animate__fadeIn">
       <img src={_404} style={{ width: "100%" }} alt="page not found" />
       <BackButton onClick={() => replace("/")}>Back</BackButton>
     </Container>
