@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/share-member-services-ui/static/css/main.7b1766a5.chunk.css",
+    "main.js": "/share-member-services-ui/static/js/main.92638fd2.chunk.js",
+    "main.js.map": "/share-member-services-ui/static/js/main.92638fd2.chunk.js.map",
+    "runtime-main.js": "/share-member-services-ui/static/js/runtime-main.2383c0df.js",
+    "runtime-main.js.map": "/share-member-services-ui/static/js/runtime-main.2383c0df.js.map",
+    "static/css/2.f01c5455.chunk.css": "/share-member-services-ui/static/css/2.f01c5455.chunk.css",
+    "static/js/2.5e7a72fd.chunk.js": "/share-member-services-ui/static/js/2.5e7a72fd.chunk.js",
+    "static/js/2.5e7a72fd.chunk.js.map": "/share-member-services-ui/static/js/2.5e7a72fd.chunk.js.map",
+    "index.html": "/share-member-services-ui/index.html",
+    "precache-manifest.b1e10c5f07e71561df2a7f87e9dfbd56.js": "/share-member-services-ui/precache-manifest.b1e10c5f07e71561df2a7f87e9dfbd56.js",
+    "service-worker.js": "/share-member-services-ui/service-worker.js",
+    "static/css/2.f01c5455.chunk.css.map": "/share-member-services-ui/static/css/2.f01c5455.chunk.css.map",
+    "static/css/main.7b1766a5.chunk.css.map": "/share-member-services-ui/static/css/main.7b1766a5.chunk.css.map",
+    "static/js/2.5e7a72fd.chunk.js.LICENSE.txt": "/share-member-services-ui/static/js/2.5e7a72fd.chunk.js.LICENSE.txt",
+    "static/media/404.jpg": "/share-member-services-ui/static/media/404.9141f473.jpg",
+    "static/media/dropbox.png": "/share-member-services-ui/static/media/dropbox.70de1484.png",
+    "static/media/illustration.jpg": "/share-member-services-ui/static/media/illustration.db525ac1.jpg",
+    "static/media/netflix.png": "/share-member-services-ui/static/media/netflix.8c3929d2.png",
+    "static/media/user-1.jpg": "/share-member-services-ui/static/media/user-1.b4cfc489.jpg",
+    "static/media/user-2.jpg": "/share-member-services-ui/static/media/user-2.990bc743.jpg",
+    "static/media/user-3.jpg": "/share-member-services-ui/static/media/user-3.2a48bb99.jpg",
+    "static/media/user-4.jpg": "/share-member-services-ui/static/media/user-4.8b12d133.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2383c0df.js",
+    "static/css/2.f01c5455.chunk.css",
+    "static/js/2.5e7a72fd.chunk.js",
+    "static/css/main.7b1766a5.chunk.css",
+    "static/js/main.92638fd2.chunk.js"
+  ]
+}
