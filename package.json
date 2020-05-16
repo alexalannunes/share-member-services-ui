@@ -9,7 +9,7 @@
     "url": "https://github.com/alexalannunes"
   },
   "repository": {
-    "url": "https://github.com/alexalannunes/share-member-services-ui"
+    "url": "https://github.com/alexalannunes/share-member-services-ui.git"
   },
   "private": false,
   "dependencies": {
