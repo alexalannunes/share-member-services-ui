@@ -2,7 +2,7 @@
   "name": "share-member-services-ui",
   "version": "0.1.0",
   "description": "A simple shared member services app. Divide your expenses",
-  "homepage": "/t",
+  "homepage": "https://alexalannunes.github.io/share-member-services-ui",
   "author": {
     "email": "alexalannunes@gmail.com",
     "name": "Alex Alan Nunes",
@@ -27,12 +27,12 @@
     "styled-components": "^5.1.0"
   },
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
